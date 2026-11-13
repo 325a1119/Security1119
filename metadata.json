@@ -1,0 +1,6 @@
+{
+  "name": "最強パスワード防衛戦",
+  "description": "単語・数字・記号を組み合わせて防壁を作り、大切なデータをハッカーから守るセキュリティ教育タワーディフェンスゲーム。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
